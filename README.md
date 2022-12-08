@@ -1,10 +1,10 @@
 # Diary
 
+https://YusukeKato.github.io/Diary/
+
 加藤祐介の日記
 
 # 2022
-
-2022年の日記
 
 ## 12月
 
