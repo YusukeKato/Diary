@@ -8,6 +8,16 @@ https://YusukeKato.github.io/Diary/
 
 ## 12月
 
+### 10日
+
+- p5.js
+- NEORT登録(Twitter : y_kato222)
+
+### 9日
+
+- 病院
+- 美容院
+
 ### 8日
 
 - Diaryリポジトリーを作成
