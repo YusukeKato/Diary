@@ -8,6 +8,23 @@ https://YusukeKato.github.io/Diary/
 
 ## 12月
 
+### 14日
+
+- ドメインはharunachan.comに決定
+- レンタルサーバーGitHub設定
+
+### 13日
+
+- アルバイト
+
+### 12日
+
+- 上野オフ会
+
+### 11日
+
+- 上野オフ会
+
 ### 10日
 
 - p5.js
